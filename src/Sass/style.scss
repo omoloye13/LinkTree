@@ -1,0 +1,17 @@
+@use "global.scss" as *;
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+  }
+  .btn{
+    background-color: $btn_background;
+    text-decoration: none;
+    color: $color;
+    @include btn_md_font;
+    width: 80%;
+    height: 76px;
+    padding: 24px 32px;
+    border-radius: 8px;
+    
+  }
