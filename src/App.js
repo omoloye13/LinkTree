@@ -1,12 +1,12 @@
 
 import './App.css';
-import { ZuriButton } from './Component/Button';
+import Container from './Container';
 
 function App() {
   return (
     <div className="App">
-     <h1>Hello</h1>
-     <ZuriButton />
+     <Container />
+     
     </div>
   );
 }
