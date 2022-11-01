@@ -101,7 +101,7 @@
       line-height: 28px;
     }
     .container{
-      height: 155vh;
+      height: 100vh;
     }
     .btn{
       background-color: #EAECF0;
@@ -131,7 +131,7 @@
     .forward_sm{
       display: block;
       position: absolute;
-      margin-left: 10em;
+      margin-left: 9em;
     }
     .text{
       color: #667085;

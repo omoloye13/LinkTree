@@ -19,7 +19,7 @@ export const ZuriButton =()=>{
 export const BookButton =()=>{
     return(
         <>
-            <a href="http://books.zuri.team" id="books" title="Zuri books"  className="btn">Zuri Team</a>
+            <a href="http://books.zuri.team" id="books" title="Zuri books"  className="btn">Zuri Books</a>
         
         </>
     );
